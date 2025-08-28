@@ -1,13 +1,3 @@
-title: Fraud Detection
-emoji: 🛡️
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: 5.44.0
-app_file: app.py
-pinned: false
----
-
 # Fraud Detection – PaySim Demo  
 
 🚀 [**Live Demo on Hugging Face**](https://huggingface.co/spaces/Kimete/fraud-detection)
@@ -125,4 +115,5 @@ Users can interactively test the model by entering transaction details and adjus
 ## 9. License
 
 This demo is for **educational and portfolio purposes only**.  
+
 Dataset credit: [PaySim](https://www.kaggle.com/datasets/ealaxi/paysim1)
